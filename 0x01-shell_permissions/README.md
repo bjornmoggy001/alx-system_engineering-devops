@@ -1,0 +1,1 @@
+Scripts illustrating Shell permissions
